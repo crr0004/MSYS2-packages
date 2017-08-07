@@ -86,6 +86,7 @@ build() {
     --enable-pythoninterp=dynamic \
     --enable-python3interp=dynamic \
     --enable-rubyinterp=dynamic \
+	--enable-luainterp=dynamic \
     --disable-tclinterp \
     --disable-gpm --disable-sysmouse \
     --disable-gui --without-x \
